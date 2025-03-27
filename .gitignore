@@ -1,0 +1,10 @@
+nextword-gpt2/
+results/
+__pycache__/
+logs/
+*.pt
+*.safetensors
+nextword-gpt2/
+results/
+*.pt
+*.safetensors
